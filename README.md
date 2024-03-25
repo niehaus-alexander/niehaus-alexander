@@ -1,7 +1,7 @@
 
 # I am Alex, welcome to my personal GitHub page!
 
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"> 
+</a><img src="https://media3.giphy.com/media/Dh5q0sShxgp13DwrvG/200.webp?cid=790b7611685vo96tjinu75q4uv8ga9ooploo57kocmyoorrq&ep=v1_gifs_search&rid=200.webp&ct=g" width="200"> 
 
 I am 26 years old and on my way to become an awesome Web Developer.
 I make a great gucacamole thanks to my costa-rican grandfather.
