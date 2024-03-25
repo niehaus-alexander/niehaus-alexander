@@ -1,4 +1,5 @@
-# Welcome to my personal GitHub page!
+
+# I am Alex, welcome to my personal GitHub page!
 
 I am 26 years old and on my way to become an awesome Web Developer.
 I make a great gucacamole thanks to my costa-rican grandfather.
