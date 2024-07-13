@@ -7,20 +7,18 @@
 I'm a junior web developer by day, and a bug exterminator by night. Welcome to my GitHub page, where the code is (mostly) clean and the jokes are always nerdy. Strap in for a wild ride through the labyrinth of my codebase.
 
 ## About Me
-- 🧑‍💻 **Name:** [Your Name]
+- 🧑‍💻 **Name:** [Alex Niehaus]
 - 💼 **Occupation:** Junior Web Developer
 - 🌐 **Specialty:** React, JavaScript, HTML, CSS
-- 🎮 **Hobbies:** Gaming, Memes, Collecting Rare Bugs (in my code, of course)
+- 🎮 **Hobbies:** Gaming, Sports, Collecting Rare Bugs (in my code, of course)
 
 ## My Tech Stack
 - **Front-End Magic:** 
   - React 
-  - Redux
-  - HTML5 
-  - CSS3 
+  - Tailwind CSS
+  - Next.js 
 - **Back-End Sorcery:** 
-  - Node.js 
-  - Express 
+  - Node.js  
 - **Database Wizardry:** 
   - MongoDB 
   - SQL 
@@ -29,28 +27,11 @@ I'm a junior web developer by day, and a bug exterminator by night. Welcome to m
 
 ## Projects
 - [**Awesome Project 1**](https://github.com/yourusername/awesome-project-1): A web app that does awesome things.
-- [**Cool Project 2**](https://github.com/yourusername/cool-project-2): Another cool project that solves all the world's problems.
+
 
 ## Special Effects 🎉
-Behold, the magic of CSS animations! Enjoy the floating effect of my name below:
-
-<div style="animation: float 3s ease-in-out infinite; font-size: 2em; color: #61DBFB; margin-top: 20px;">
-  <code> ~ Your Name ~ </code>
-</div>
-
-<style>
-@keyframes float {
-  0% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-10px);
-  }
-  100% {
-    transform: translateY(0);
-  }
-}
-</style>
+Check out this cool nerdy effect:
+![Special Effect](https://media.giphy.com/media/2xPGC80gHE1yRyajhC/giphy.gif)
 
 ## Fun Facts
 - I once wrote a function so good, it brought my computer to its knees. It was a recursive loop that never ended. RIP.
