@@ -1,5 +1,5 @@
 # Welcome to My Nerdy Corner of the Internet! 🤓
-![Nerd Alert](https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxOTcwMjR8MHwxfGFsbHwxfHx8fHx8fHwxNjM5NjczOTM3&ixlib=rb-1.2.1&q=80&w=1080)
+![Nerd Alert](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGViczQ4Y2c0ZXU0OWdiMG5qYXR2ZHpvYnF6eXZlYmc1OWxhZW8ydCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/McmEgVHMekWQ/giphy.gif)
 
 ### Greetings, Fellow Code Wizards!
 
@@ -25,12 +25,7 @@ I'm a junior web developer by day, and a bug exterminator by night. Welcome to m
   - Git & GitHub 
 
 ## Projects
-- [**Awesome Project 1**](https://github.com/yourusername/awesome-project-1): A web app that does awesome things.
-
-
-## Special Effects 🎉
-Check out this cool nerdy effect:
-![Special Effect](https://images.unsplash.com/photo-1581091870622-37c37da75e6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxOTcwMjR8MHwxfGFsbHwzfHx8fHx8fHwxNjM5NjczOTM3&ixlib=rb-1.2.1&q=80&w=1080)
+- [**Tamagotchi App**](https://github.com/Braun-Johannes/Capstone-Project-BattlePets): A Tamagotchi Game. Keep your pet alive as long as possible!
 
 ## Fun Facts
 - I once wrote a function so good, it brought my computer to its knees. It was a recursive loop that never ended. RIP.
@@ -38,8 +33,6 @@ Check out this cool nerdy effect:
 - I have a love-hate relationship with semicolons.
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
-- [Personal Blog](https://yourblog.com)
-![Goodbye](https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxOTcwMjR8MHwxfGFsbHw2fHx8fHx8fHwxNjM5NjczOTM3&ixlib=rb-1.2.1&q=80&w=1080)
+- [LinkedIn](www.linkedin.com/in/alexander-niehaus-niehaus-954b73257)
+
 
