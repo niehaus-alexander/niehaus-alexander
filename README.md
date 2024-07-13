@@ -1,6 +1,5 @@
 # Welcome to My Nerdy Corner of the Internet! 🤓
-
-![Nerd Alert](https://media.giphy.com/media/Lr1dYoZKBQwA5g7mF9/giphy.gif)
+![Nerd Alert](https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxOTcwMjR8MHwxfGFsbHwxfHx8fHx8fHwxNjM5NjczOTM3&ixlib=rb-1.2.1&q=80&w=1080)
 
 ### Greetings, Fellow Code Wizards!
 
@@ -31,7 +30,7 @@ I'm a junior web developer by day, and a bug exterminator by night. Welcome to m
 
 ## Special Effects 🎉
 Check out this cool nerdy effect:
-![Special Effect](https://media.giphy.com/media/2xPGC80gHE1yRyajhC/giphy.gif)
+![Special Effect](https://images.unsplash.com/photo-1581091870622-37c37da75e6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxOTcwMjR8MHwxfGFsbHwzfHx8fHx8fHwxNjM5NjczOTM3&ixlib=rb-1.2.1&q=80&w=1080)
 
 ## Fun Facts
 - I once wrote a function so good, it brought my computer to its knees. It was a recursive loop that never ended. RIP.
@@ -42,6 +41,5 @@ Check out this cool nerdy effect:
 - [LinkedIn](https://www.linkedin.com/in/yourusername/)
 - [Twitter](https://twitter.com/yourusername)
 - [Personal Blog](https://yourblog.com)
-
-![Goodbye](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![Goodbye](https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxOTcwMjR8MHwxfGFsbHw2fHx8fHx8fHwxNjM5NjczOTM3&ixlib=rb-1.2.1&q=80&w=1080)
 
