@@ -1,5 +1,5 @@
 # Welcome to My Nerdy Corner of the Internet! 🤓
-![Nerd Alert](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGViczQ4Y2c0ZXU0OWdiMG5qYXR2ZHpvYnF6eXZlYmc1OWxhZW8ydCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l2qJnXbUzQAeY/giphy.gif)
+![Nerd Alert](https://media.giphy.com/media/1KrM2hhDN3dgk/giphy.gif?cid=790b7611laqisvy339nxgjouz2dhq7z7oyolhfqjluaiwbwq&ep=v1_gifs_search&rid=giphy.gif)
 
 ### Greetings, Fellow Code Wizards!
 
