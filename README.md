@@ -33,6 +33,6 @@ I'm a junior web developer by day, and a bug exterminator by night. Welcome to m
 - I have a love-hate relationship with semicolons.
 
 ## Connect with Me
-- [LinkedIn](https://linkedin.com/in/alexander-niehaus-niehaus-954b73257)
+- [LinkedIn](https://www.linkedin.com/in/alexander-niehaus-954b73257/)
 
 
