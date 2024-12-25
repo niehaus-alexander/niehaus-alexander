@@ -26,6 +26,7 @@ I'm a junior web developer by day, and a bug exterminator by night. Welcome to m
 
 ## Projects
 - [**Tamagotchi App**](https://github.com/Braun-Johannes/Capstone-Project-BattlePets): A Tamagotchi Game. Keep your pet alive as long as possible!
+- [**Lazy Recipe**](https://github.com/niehaus-alexander/recipe-generator): A Recipe Website to store, create and randomly pick your own recipes!
 
 ## Fun Facts
 - I once wrote a function so good, it brought my computer to its knees. It was a recursive loop that never ended. RIP.
@@ -34,5 +35,6 @@ I'm a junior web developer by day, and a bug exterminator by night. Welcome to m
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/alexander-niehaus-954b73257/)
+- [My personal Website](https://niehaus-alexander.com)
 
 
