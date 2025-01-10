@@ -3,7 +3,7 @@
 
 ### Greetings, Fellow Code Wizards!
 
-I'm a junior web developer by day, and a bug exterminator by night. Welcome to my GitHub page, where the code is (mostly) clean and the jokes are always nerdy. Strap in for a wild ride through the labyrinth of my codebase.
+I'm a junior full stack developer by day, but mostly by night. Welcome to my GitHub page, where the code is (mostly) clean and the jokes are always terrible. Sattle up for a wild ride through the labyrinth of my codebase.
 
 ## About Me
 - 🧑‍💻 **Name:** [Alex Niehaus]
@@ -12,12 +12,13 @@ I'm a junior web developer by day, and a bug exterminator by night. Welcome to m
 - 🎮 **Hobbies:** Gaming, Sports, Collecting Rare Bugs (in my code, of course)
 
 ## My Tech Stack
-- **Front-End Magic:** 
+- **Front-End:** 
   - React 
   - Tailwind CSS
   - Next.js 
-- **Back-End Sorcery:** 
-  - Node.js  
+- **Back-End:** 
+  - Node.js
+  - Java 
 - **Database Wizardry:** 
   - MongoDB 
   - SQL 
@@ -28,10 +29,20 @@ I'm a junior web developer by day, and a bug exterminator by night. Welcome to m
 - [**Tamagotchi App**](https://github.com/Braun-Johannes/Capstone-Project-BattlePets): A Tamagotchi Game. Keep your pet alive as long as possible!
 - [**Lazy Recipe**](https://github.com/niehaus-alexander/recipe-generator): A Recipe Website to store, create and randomly pick your own recipes!
 
-## Fun Facts
-- I once wrote a function so good, it brought my computer to its knees. It was a recursive loop that never ended. RIP.
-- I use more sticky notes than a detective solving a crime.
-- I have a love-hate relationship with semicolons.
+## Favorite IT Jokes (Sorry about that)
+- What made the Java developers wear glasses?... They can't C.
+  
+- Knock knock
+
+Who’s there?” 
+
+Hello world!
+
+“Hello world, who?”
+
+NameError: name ‘who’ is not defined
+
+- Oh no! PlayStation and Xbox online services are down! Someone call an ambulance! *Wii U Wii U Wii U*
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/alexander-niehaus-954b73257/)
