@@ -7,8 +7,8 @@ I'm a junior full stack developer by day, but mostly by night. Welcome to my Git
 
 ## About Me
 - 🧑‍💻 **Name:** [Alex Niehaus]
-- 💼 **Occupation:** Junior Web Developer
-- 🌐 **Specialty:** React, JavaScript, HTML, CSS
+- 💼 **Occupation:** Junior Full Stack Developer
+- 🌐 **Specialty:** React, Tailwind CSS, Javascript
 - 🎮 **Hobbies:** Gaming, Sports, Collecting Rare Bugs (in my code, of course)
 
 ## My Tech Stack
